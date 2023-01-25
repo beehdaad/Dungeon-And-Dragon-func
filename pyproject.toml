@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "dungeon and dragon"
+version = "1"
+description = "Game"
+authors = ["behdad siavoshi"]
+license = "free"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.1"
+cowsay = "^5.0"
+pyfiglet = "^0.8.post1"
+string-color = "^1.2.3"
+
+
+[tool.poetry.group.devDependencies.dependencies]
+flake8 = "^6.0.0"
+pyment = "^0.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

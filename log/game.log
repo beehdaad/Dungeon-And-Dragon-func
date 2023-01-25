@@ -1,0 +1,365 @@
+game  - Player position: (1, 8) - 2023-01-25 11:57:32,695
+game  - The map was drawn - 2023-01-25 11:57:32,696
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:32,696
+game  - The character chose 'UP' - 2023-01-25 11:57:36,065
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:36,066
+game  - Dragon position: (4, 8) and deciding direction - 2023-01-25 11:57:36,066
+game  - The character chose 'RIGHT' - 2023-01-25 11:57:36,066
+game  - Player position: (1, 7) - 2023-01-25 11:57:36,066
+game  - The map was drawn - 2023-01-25 11:57:36,068
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:36,068
+game  - The character chose 'LEFT' - 2023-01-25 11:57:39,046
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:39,046
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:39,047
+game  - Player position: (0, 7) - 2023-01-25 11:57:39,047
+game  - The map was drawn - 2023-01-25 11:57:39,048
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:39,048
+game  - The character chose 'DOWN' - 2023-01-25 11:57:40,577
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:40,577
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:40,577
+game  - Player position: (0, 8) - 2023-01-25 11:57:40,577
+game  - The map was drawn - 2023-01-25 11:57:40,579
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:40,580
+game  - The character chose 'UP' - 2023-01-25 11:57:42,752
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:42,753
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:42,753
+game  - Player position: (0, 7) - 2023-01-25 11:57:42,753
+game  - The map was drawn - 2023-01-25 11:57:42,754
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:42,754
+game  - The character chose 'UP' - 2023-01-25 11:57:43,639
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:43,639
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:43,639
+game  - Player position: (0, 6) - 2023-01-25 11:57:43,639
+game  - The map was drawn - 2023-01-25 11:57:43,641
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:43,641
+game  - The character chose 'UP' - 2023-01-25 11:57:44,377
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:44,377
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:44,377
+game  - Player position: (0, 5) - 2023-01-25 11:57:44,378
+game  - The map was drawn - 2023-01-25 11:57:44,378
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:44,378
+game  - The character chose 'DOWN' - 2023-01-25 11:57:46,484
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:46,485
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:46,485
+game  - Player position: (0, 6) - 2023-01-25 11:57:46,485
+game  - The map was drawn - 2023-01-25 11:57:46,486
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:46,486
+game  - The character chose 'DOWN' - 2023-01-25 11:57:47,631
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:47,631
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:47,632
+game  - Player position: (0, 7) - 2023-01-25 11:57:47,633
+game  - The map was drawn - 2023-01-25 11:57:47,634
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:47,634
+game  - The character chose 'DOWN' - 2023-01-25 11:57:48,649
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:48,649
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:48,649
+game  - Player position: (0, 8) - 2023-01-25 11:57:48,649
+game  - The map was drawn - 2023-01-25 11:57:48,652
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:48,652
+game  - The character chose 'DOWN' - 2023-01-25 11:57:51,149
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:51,149
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:51,150
+game  - Player position: (0, 9) - 2023-01-25 11:57:51,150
+game  - The map was drawn - 2023-01-25 11:57:51,151
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:57:51,151
+game  - The character chose 'RIGHT' - 2023-01-25 11:57:52,605
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:52,605
+game  - Dragon position: (5, 8) and did not move - 2023-01-25 11:57:52,605
+game  - Player position: (1, 9) - 2023-01-25 11:57:52,605
+game  - The map was drawn - 2023-01-25 11:57:52,607
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:52,607
+game  - The character chose 'RIGHT' - 2023-01-25 11:57:54,155
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:54,156
+game  - Dragon position: (5, 8) and deciding direction - 2023-01-25 11:57:54,156
+game  - The character chose 'UP' - 2023-01-25 11:57:54,156
+game  - Player position: (2, 9) - 2023-01-25 11:57:54,156
+game  - The map was drawn - 2023-01-25 11:57:54,157
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:54,157
+game  - The character chose 'RIGHT' - 2023-01-25 11:57:55,633
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:55,634
+game  - Dragon position: (5, 7) and deciding direction - 2023-01-25 11:57:55,634
+game  - The character chose 'DOWN' - 2023-01-25 11:57:55,634
+game  - Player position: (3, 9) - 2023-01-25 11:57:55,634
+game  - The map was drawn - 2023-01-25 11:57:55,636
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:55,636
+game  - The character chose 'DOWN' - 2023-01-25 11:57:57,456
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:57,457
+game  - Dragon position: (5, 8) and deciding direction - 2023-01-25 11:57:57,457
+game  - The character chose 'RIGHT' - 2023-01-25 11:57:57,457
+game  - Player position: (3, 10) - 2023-01-25 11:57:57,457
+game  - The map was drawn - 2023-01-25 11:57:57,458
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 11:57:57,458
+game  - The character chose 'RIGHT' - 2023-01-25 11:57:58,961
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:58,961
+game  - Dragon position: (6, 8) and deciding direction - 2023-01-25 11:57:58,961
+game  - The character chose 'DOWN' - 2023-01-25 11:57:58,962
+game  - Player position: (4, 10) - 2023-01-25 11:57:58,962
+game  - The map was drawn - 2023-01-25 11:57:58,963
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:57:58,964
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:01,654
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:01,655
+game  - Dragon position: (6, 9) and deciding direction - 2023-01-25 11:58:01,655
+game  - The character chose 'DOWN' - 2023-01-25 11:58:01,655
+game  - Player position: (5, 10) - 2023-01-25 11:58:01,656
+game  - The map was drawn - 2023-01-25 11:58:01,657
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 11:58:01,657
+game  - The character chose 'LEFT' - 2023-01-25 11:58:04,193
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:04,193
+game  - Dragon position: (6, 10) and left direction - 2023-01-25 11:58:04,193
+game  - The character chose 'LEFT' - 2023-01-25 11:58:04,193
+game  - Player position: (4, 10) - 2023-01-25 11:58:04,194
+game  - The map was drawn - 2023-01-25 11:58:04,194
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:04,194
+game  - The character chose 'LEFT' - 2023-01-25 11:58:06,914
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 11:58:06,915
+game  - Dragon position: (5, 10) and left direction - 2023-01-25 11:58:06,915
+game  - The character chose 'LEFT' - 2023-01-25 11:58:06,915
+game  - Player position: (3, 10) - 2023-01-25 11:58:06,915
+game  - The map was drawn - 2023-01-25 11:58:06,916
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 11:58:06,916
+game  - The character chose 'UP' - 2023-01-25 11:58:08,145
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:08,145
+game  - Dragon position: (4, 10) and deciding direction - 2023-01-25 11:58:08,146
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:08,146
+game  - Player position: (3, 9) - 2023-01-25 11:58:08,146
+game  - The map was drawn - 2023-01-25 11:58:08,147
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:08,147
+game  - The character chose 'UP' - 2023-01-25 11:58:09,233
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 11:58:09,233
+game  - Dragon position: (5, 10) and deciding direction - 2023-01-25 11:58:09,233
+game  - The character chose 'UP' - 2023-01-25 11:58:09,233
+game  - Player position: (3, 8) - 2023-01-25 11:58:09,233
+game  - The map was drawn - 2023-01-25 11:58:09,234
+game  - Allowed directions: ['down', 'left', 'right'] - 2023-01-25 11:58:09,234
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:11,916
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:11,916
+game  - Dragon position: (5, 9) and deciding direction - 2023-01-25 11:58:11,916
+game  - The character chose 'LEFT' - 2023-01-25 11:58:11,916
+game  - Player position: (4, 8) - 2023-01-25 11:58:11,917
+game  - The map was drawn - 2023-01-25 11:58:11,918
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:11,918
+game  - The character chose 'UP' - 2023-01-25 11:58:13,316
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:13,316
+game  - Dragon position: (4, 9) and up direction - 2023-01-25 11:58:13,316
+game  - The character chose 'UP' - 2023-01-25 11:58:13,317
+game  - Player position: (4, 7) - 2023-01-25 11:58:13,317
+game  - The map was drawn - 2023-01-25 11:58:13,318
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:58:13,318
+game  - The character chose 'UP' - 2023-01-25 11:58:14,009
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:14,010
+game  - Dragon position: (4, 8) and up direction - 2023-01-25 11:58:14,010
+game  - The character chose 'UP' - 2023-01-25 11:58:14,010
+game  - Player position: (4, 6) - 2023-01-25 11:58:14,010
+game  - The map was drawn - 2023-01-25 11:58:14,011
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:14,011
+game  - The character chose 'UP' - 2023-01-25 11:58:14,680
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:58:14,681
+game  - Dragon position: (4, 7) and up direction - 2023-01-25 11:58:14,681
+game  - The character chose 'UP' - 2023-01-25 11:58:14,681
+game  - Player position: (4, 5) - 2023-01-25 11:58:14,682
+game  - The map was drawn - 2023-01-25 11:58:14,682
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:58:14,682
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:16,083
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:16,083
+game  - Dragon position: (4, 6) and deciding direction - 2023-01-25 11:58:16,084
+game  - The character chose 'DOWN' - 2023-01-25 11:58:16,084
+game  - Player position: (5, 5) - 2023-01-25 11:58:16,084
+game  - The map was drawn - 2023-01-25 11:58:16,084
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:16,084
+game  - The character chose 'UP' - 2023-01-25 11:58:18,243
+game  - Allowed directions: ['up', 'down', 'right'] - 2023-01-25 11:58:18,244
+game  - Dragon position: (4, 7) and deciding direction - 2023-01-25 11:58:18,244
+game  - The character chose 'DOWN' - 2023-01-25 11:58:18,244
+game  - Player position: (5, 4) - 2023-01-25 11:58:18,245
+game  - The map was drawn - 2023-01-25 11:58:18,246
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:18,246
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:21,506
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:21,506
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:21,506
+game  - Player position: (6, 4) - 2023-01-25 11:58:21,506
+game  - The map was drawn - 2023-01-25 11:58:21,508
+game  - Allowed directions: ['down', 'left', 'right'] - 2023-01-25 11:58:21,508
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:24,343
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:24,343
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:24,343
+game  - Player position: (7, 4) - 2023-01-25 11:58:24,343
+game  - The map was drawn - 2023-01-25 11:58:24,344
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:24,345
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:25,889
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:25,889
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:25,889
+game  - Player position: (8, 4) - 2023-01-25 11:58:25,889
+game  - The map was drawn - 2023-01-25 11:58:25,890
+game  - Allowed directions: ['up', 'down', 'left'] - 2023-01-25 11:58:25,891
+game  - Player position: (8, 4) - 2023-01-25 11:58:27,464
+game  - The map was drawn - 2023-01-25 11:58:27,465
+game  - Allowed directions: ['up', 'down', 'left'] - 2023-01-25 11:58:27,465
+game  - The character chose 'DOWN' - 2023-01-25 11:58:29,029
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:29,029
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:29,029
+game  - Player position: (8, 5) - 2023-01-25 11:58:29,029
+game  - The map was drawn - 2023-01-25 11:58:29,031
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:29,031
+game  - The character chose 'DOWN' - 2023-01-25 11:58:30,261
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:30,261
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:30,261
+game  - Player position: (8, 6) - 2023-01-25 11:58:30,261
+game  - The map was drawn - 2023-01-25 11:58:30,262
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 11:58:30,262
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:32,462
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:32,462
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:32,462
+game  - Player position: (9, 6) - 2023-01-25 11:58:32,462
+game  - The map was drawn - 2023-01-25 11:58:32,463
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 11:58:32,463
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:37,489
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:37,489
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:37,489
+game  - Player position: (10, 6) - 2023-01-25 11:58:37,489
+game  - The map was drawn - 2023-01-25 11:58:37,492
+game  - Allowed directions: ['up', 'down', 'left'] - 2023-01-25 11:58:37,492
+game  - The character chose 'DOWN' - 2023-01-25 11:58:46,254
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:46,255
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:46,255
+game  - Player position: (10, 7) - 2023-01-25 11:58:46,255
+game  - The map was drawn - 2023-01-25 11:58:46,255
+game  - Allowed directions: ['up', 'right'] - 2023-01-25 11:58:46,256
+game  - The character chose 'RIGHT' - 2023-01-25 11:58:48,556
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:48,557
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:48,557
+game  - Player position: (11, 7) - 2023-01-25 11:58:48,557
+game  - The map was drawn - 2023-01-25 11:58:48,559
+game  - Allowed directions: ['down', 'left'] - 2023-01-25 11:58:48,559
+game  - The character chose 'DOWN' - 2023-01-25 11:58:50,084
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:50,084
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:50,084
+game  - Player position: (11, 8) - 2023-01-25 11:58:50,084
+game  - The map was drawn - 2023-01-25 11:58:50,085
+game  - Allowed directions: ['up', 'down'] - 2023-01-25 11:58:50,085
+game  - The character chose 'DOWN' - 2023-01-25 11:58:51,692
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:51,692
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:51,692
+game  - Player position: (11, 9) - 2023-01-25 11:58:51,692
+game  - The map was drawn - 2023-01-25 11:58:51,693
+game  - Allowed directions: ['up', 'down', 'left'] - 2023-01-25 11:58:51,693
+game  - The character chose 'LEFT' - 2023-01-25 11:58:53,421
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:53,421
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:53,421
+game  - Player position: (10, 9) - 2023-01-25 11:58:53,421
+game  - The map was drawn - 2023-01-25 11:58:53,422
+game  - Allowed directions: ['down', 'left', 'right'] - 2023-01-25 11:58:53,422
+game  - The character chose 'LEFT' - 2023-01-25 11:58:55,004
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:55,004
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:55,004
+game  - Player position: (9, 9) - 2023-01-25 11:58:55,004
+game  - The map was drawn - 2023-01-25 11:58:55,005
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:55,005
+game  - The character chose 'UP' - 2023-01-25 11:58:56,078
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:58:56,078
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:58:56,078
+game  - Player position: (9, 8) - 2023-01-25 11:59:07,097
+game  - The map was drawn - 2023-01-25 11:59:07,097
+game  - Allowed directions: ['down', 'left'] - 2023-01-25 11:59:07,098
+game  - The character chose 'DOWN' - 2023-01-25 11:59:14,919
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:59:14,919
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:59:14,919
+game  - Player position: (9, 9) - 2023-01-25 11:59:14,919
+game  - The map was drawn - 2023-01-25 11:59:14,921
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:59:14,922
+game  - The character chose 'DOWN' - 2023-01-25 11:59:56,721
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:59:56,721
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:59:56,721
+game  - Player position: (9, 10) - 2023-01-25 11:59:56,721
+game  - The map was drawn - 2023-01-25 11:59:56,723
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:59:56,724
+game  - The character chose 'RIGHT' - 2023-01-25 11:59:58,798
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:59:58,798
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 11:59:58,798
+game  - Player position: (10, 10) - 2023-01-25 11:59:58,798
+game  - The map was drawn - 2023-01-25 11:59:58,799
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 11:59:58,799
+game  - The character chose 'LEFT' - 2023-01-25 12:00:00,154
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:00,155
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 12:00:00,155
+game  - Player position: (9, 10) - 2023-01-25 12:00:00,155
+game  - The map was drawn - 2023-01-25 12:00:00,157
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:00,157
+game  - The character chose 'LEFT' - 2023-01-25 12:00:01,144
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:01,145
+game  - Dragon position: (4, 8) and did not move - 2023-01-25 12:00:01,145
+game  - Player position: (8, 10) - 2023-01-25 12:00:01,145
+game  - The map was drawn - 2023-01-25 12:00:01,146
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:01,146
+game  - The character chose 'LEFT' - 2023-01-25 12:00:02,430
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:02,431
+game  - Dragon position: (4, 8) and deciding direction - 2023-01-25 12:00:02,431
+game  - The character chose 'DOWN' - 2023-01-25 12:00:02,432
+game  - Player position: (7, 10) - 2023-01-25 12:00:02,432
+game  - The map was drawn - 2023-01-25 12:00:02,434
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:02,434
+game  - The character chose 'RIGHT' - 2023-01-25 12:00:04,453
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:04,453
+game  - Dragon position: (4, 9) and did not move - 2023-01-25 12:00:04,453
+game  - Player position: (8, 10) - 2023-01-25 12:00:04,453
+game  - The map was drawn - 2023-01-25 12:00:04,454
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:04,454
+game  - The character chose 'DOWN' - 2023-01-25 12:00:06,139
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:06,139
+game  - Dragon position: (4, 9) and did not move - 2023-01-25 12:00:06,139
+game  - Player position: (8, 11) - 2023-01-25 12:00:06,139
+game  - The map was drawn - 2023-01-25 12:00:06,141
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 12:00:06,141
+game  - The character chose 'RIGHT' - 2023-01-25 12:00:07,913
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:07,914
+game  - Dragon position: (4, 9) and did not move - 2023-01-25 12:00:07,914
+game  - Player position: (9, 11) - 2023-01-25 12:00:07,915
+game  - The map was drawn - 2023-01-25 12:00:07,915
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 12:00:07,915
+game  - The character chose 'RIGHT' - 2023-01-25 12:00:09,251
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:09,251
+game  - Dragon position: (4, 9) and did not move - 2023-01-25 12:00:09,252
+game  - Player position: (10, 11) - 2023-01-25 12:00:09,252
+game  - The map was drawn - 2023-01-25 12:00:09,253
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 12:00:09,253
+game  - The character chose 'RIGHT' - 2023-01-25 12:00:10,652
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:10,652
+game  - Dragon position: (4, 9) and did not move - 2023-01-25 12:00:10,652
+game  - Player position: (11, 11) - 2023-01-25 12:00:10,652
+game  - The map was drawn - 2023-01-25 12:00:10,655
+game  - Allowed directions: ['up', 'left'] - 2023-01-25 12:00:10,655
+game  - The character chose 'LEFT' - 2023-01-25 12:00:11,893
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:11,893
+game  - Dragon position: (4, 9) and did not move - 2023-01-25 12:00:11,893
+game  - Player position: (10, 11) - 2023-01-25 12:00:11,894
+game  - The map was drawn - 2023-01-25 12:00:11,896
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 12:00:11,896
+game  - The character chose 'LEFT' - 2023-01-25 12:00:12,923
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:12,923
+game  - Dragon position: (4, 9) and did not move - 2023-01-25 12:00:12,923
+game  - Player position: (9, 11) - 2023-01-25 12:00:12,923
+game  - The map was drawn - 2023-01-25 12:00:12,925
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 12:00:12,926
+game  - The character chose 'LEFT' - 2023-01-25 12:00:13,949
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:13,949
+game  - Dragon position: (4, 9) and did not move - 2023-01-25 12:00:13,949
+game  - Player position: (8, 11) - 2023-01-25 12:00:13,949
+game  - The map was drawn - 2023-01-25 12:00:13,950
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 12:00:13,951
+game  - The character chose 'LEFT' - 2023-01-25 12:00:14,949
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:14,949
+game  - Dragon position: (4, 9) and deciding direction - 2023-01-25 12:00:14,950
+game  - The character chose 'DOWN' - 2023-01-25 12:00:14,950
+game  - Player position: (7, 11) - 2023-01-25 12:00:14,950
+game  - The map was drawn - 2023-01-25 12:00:14,951
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 12:00:14,951
+game  - The character chose 'LEFT' - 2023-01-25 12:00:16,382
+game  - Allowed directions: ['up', 'down', 'left', 'right'] - 2023-01-25 12:00:16,382
+game  - Dragon position: (4, 10) and deciding direction - 2023-01-25 12:00:16,382
+game  - The character chose 'RIGHT' - 2023-01-25 12:00:16,383
+game  - Player position: (6, 11) - 2023-01-25 12:00:16,383
+game  - The map was drawn - 2023-01-25 12:00:16,384
+game  - Allowed directions: ['up', 'right'] - 2023-01-25 12:00:16,384
+game  - The character chose 'UP' - 2023-01-25 12:00:17,946
+game  - Allowed directions: ['up', 'left', 'right'] - 2023-01-25 12:00:17,946
+game  - Dragon position: (5, 10) and right direction - 2023-01-25 12:00:17,946
+game  - The character chose 'RIGHT' - 2023-01-25 12:00:17,946

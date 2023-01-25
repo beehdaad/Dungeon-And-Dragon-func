@@ -1,0 +1,42 @@
+__main__ - INFO - start game - 2023-01-25 11:56:50,138
+package_dd.other_func - INFO - 'loading logo' being displayed - 2023-01-25 11:56:50,139
+package_dd.other_func - INFO - 'loading logo' is finished - 2023-01-25 11:56:54,741
+__main__ - INFO - Start reading database information from 'accounts_database.csv' - 2023-01-25 11:56:54,741
+__main__ - INFO - End of reading database information - 2023-01-25 11:56:54,744
+__main__ - INFO - The user is in the 'main' section - 2023-01-25 11:56:54,752
+__main__ - INFO - The user entered the '-login' command in the 'main' section - 2023-01-25 11:56:58,265
+__main__ - INFO - The user is in the 'login' section - 2023-01-25 11:56:58,274
+__main__ - INFO - behdadd did not exist in the database - 2023-01-25 11:56:59,635
+__main__ - INFO - The user is in the 'login' section - 2023-01-25 11:57:01,662
+__main__ - INFO - behdad's username is classified - 2023-01-25 11:57:03,434
+__main__ - INFO - 'behdad' entered '123456789' password incorrectly 1 time - 2023-01-25 11:57:05,983
+package_dd.other_func - INFO - 'loading logo' being displayed - 2023-01-25 11:57:08,555
+package_dd.other_func - INFO - 'loading logo' is finished - 2023-01-25 11:57:10,478
+__main__ - INFO - 'behdad' login - 2023-01-25 11:57:10,479
+__main__ - INFO - behdad is in the 'level' section, wallet:55 - 2023-01-25 11:57:11,501
+__main__ - INFO - behdad typed the '-hint' command, wallet:55 - 2023-01-25 11:57:16,608
+__main__ - INFO - behdad is in the 'level' section, wallet:55 - 2023-01-25 11:57:18,621
+__main__ - INFO - behdad entered an unauthorized command >>> ds - 2023-01-25 11:57:19,747
+__main__ - INFO - behdad is in the 'level' section, wallet:55 - 2023-01-25 11:57:21,758
+__main__ - INFO - behdad entered the '-hard' and lost 22 coins, wallet:33 - 2023-01-25 11:57:27,987
+package_dd.other_func - INFO - 'loading logo' being displayed - 2023-01-25 11:57:27,987
+package_dd.other_func - INFO - 'loading logo' is finished - 2023-01-25 11:57:29,000
+__main__ - INFO - behdad inside the 'game start' page, wallet:33 - 2023-01-25 11:57:29,000
+__main__ - INFO - behdad entered the game with a counter of 1 2 3, wallet:33 - 2023-01-25 11:57:32,695
+__main__ - INFO - behdad is in the game on 'hard level', wallet:33 - 2023-01-25 11:57:32,695
+__main__ - INFO - behdad lost the game, wallet:33 - 2023-01-25 12:00:17,948
+__main__ - INFO - behdad is in the 'level' section, wallet:33 - 2023-01-25 12:00:19,957
+package_dd.other_func - INFO - 'loading logo' being displayed - 2023-01-25 12:01:00,399
+package_dd.other_func - INFO - 'loading logo' is finished - 2023-01-25 12:01:01,404
+__main__ - INFO - 'behdad' entered the '-logout', wallet:33 - 2023-01-25 12:01:01,404
+__main__ - INFO - Start writing database information from within the program - 2023-01-25 12:01:03,406
+__main__ - INFO - End of writing database information and saved in 'accounts_database.csv' - 2023-01-25 12:01:03,408
+__main__ - INFO - Start reading database information from 'accounts_database.csv' - 2023-01-25 12:01:03,408
+__main__ - INFO - End of reading database information - 2023-01-25 12:01:03,409
+__main__ - INFO - The user is in the 'main' section - 2023-01-25 12:01:03,415
+__main__ - INFO - The user entered the '-exit' command in the 'main' section - 2023-01-25 12:01:18,332
+package_dd.other_func - INFO - The user is 'inside' the '-exit' section - 2023-01-25 12:01:18,332
+package_dd.other_func - INFO - The user of the '-exit' section has 'exited' - 2023-01-25 12:01:20,354
+__main__ - INFO - Start writing database information from within the program - 2023-01-25 12:01:20,354
+__main__ - INFO - End of writing database information and saved in 'accounts_database.csv' - 2023-01-25 12:01:20,355
+__main__ - INFO - end game - 2023-01-25 12:01:20,363
